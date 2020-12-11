@@ -1,1 +1,2 @@
 Github is an online hosting platform
+Add a conclusion to GitHub.txt file.
